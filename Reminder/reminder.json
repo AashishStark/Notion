@@ -1,0 +1,2966 @@
+{
+  "inspector": {
+    "version": "2.0",
+    "description": "Recursive machine-readable snapshot of a Notion page, including rows inside nested databases and linked pages.",
+    "root_page_id": "3dce46567a3a80949b51c158be338e89",
+    "include_raw_api": true
+  },
+  "template": {
+    "id": "3dce46567a3a80949b51c158be338e89",
+    "type": "page",
+    "url": "https://app.notion.com/p/Essential-Space-3dce46567a3a80949b51c158be338e89",
+    "created_time": "2026-09-15T14:06:00.000Z",
+    "last_edited_time": "2026-09-15T14:14:00.000Z",
+    "archived": false,
+    "in_trash": false,
+    "icon": {
+      "type": "icon",
+      "icon": {
+        "name": "error",
+        "color": "pink"
+      }
+    },
+    "cover": null,
+    "parent": {
+      "type": "workspace",
+      "workspace": true
+    },
+    "properties": {
+      "title": {
+        "id": "title",
+        "type": "title",
+        "value": {
+          "type": "title",
+          "text": "Essential Space",
+          "rich_text": [
+            {
+              "plain_text": "Essential Space",
+              "href": null,
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "type": "text",
+              "text": {
+                "content": "Essential Space",
+                "link": null
+              }
+            }
+          ]
+        }
+      }
+    },
+    "title": "Essential Space",
+    "children": [
+      {
+        "id": "3dce4656-7a3a-80eb-a326-c41a53e4f794",
+        "type": "paragraph",
+        "object": "block",
+        "has_children": false,
+        "created_time": "2026-09-15T14:07:00.000Z",
+        "last_edited_time": "2026-09-15T14:07:00.000Z",
+        "archived": false,
+        "in_trash": false,
+        "content": {
+          "text": "",
+          "rich_text": [],
+          "color": "default",
+          "other": {
+            "icon": null
+          }
+        },
+        "_raw": {
+          "object": "block",
+          "id": "3dce4656-7a3a-80eb-a326-c41a53e4f794",
+          "parent": {
+            "type": "page_id",
+            "page_id": "3dce4656-7a3a-8094-9b51-c158be338e89"
+          },
+          "created_time": "2026-09-15T14:07:00.000Z",
+          "last_edited_time": "2026-09-15T14:07:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "3d6d872b-594c-81e1-af4a-0002b05cee21"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "3d6d872b-594c-81e1-af4a-0002b05cee21"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "paragraph",
+          "paragraph": {
+            "rich_text": [],
+            "icon": null,
+            "color": "default"
+          },
+          "archived": false
+        }
+      },
+      {
+        "id": "3dce4656-7a3a-81ac-8e57-c316b4cc9578",
+        "type": "callout",
+        "object": "block",
+        "has_children": false,
+        "created_time": "2026-09-15T14:14:00.000Z",
+        "last_edited_time": "2026-09-15T14:14:00.000Z",
+        "archived": false,
+        "in_trash": false,
+        "content": {
+          "text": "Capture something now. Add when to remember it. Let Notion remind you later.",
+          "rich_text": [
+            {
+              "plain_text": "Capture something now. Add when to remember it. Let Notion remind you later.",
+              "href": null,
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "type": "text",
+              "text": {
+                "content": "Capture something now. Add when to remember it. Let Notion remind you later.",
+                "link": null
+              }
+            }
+          ],
+          "color": "default",
+          "other": {
+            "icon": {
+              "type": "emoji",
+              "emoji": "🔔"
+            }
+          }
+        },
+        "_raw": {
+          "object": "block",
+          "id": "3dce4656-7a3a-81ac-8e57-c316b4cc9578",
+          "parent": {
+            "type": "page_id",
+            "page_id": "3dce4656-7a3a-8094-9b51-c158be338e89"
+          },
+          "created_time": "2026-09-15T14:14:00.000Z",
+          "last_edited_time": "2026-09-15T14:14:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "3d6e4656-7a3a-81ee-b965-00275efd9ea6"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "3d6e4656-7a3a-81ee-b965-00275efd9ea6"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "callout",
+          "callout": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Capture something now. Add when to remember it. Let Notion remind you later.",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Capture something now. Add when to remember it. Let Notion remind you later.",
+                "href": null
+              }
+            ],
+            "icon": {
+              "type": "emoji",
+              "emoji": "🔔"
+            },
+            "color": "default"
+          },
+          "archived": false
+        }
+      },
+      {
+        "id": "3dce4656-7a3a-812e-a523-e7deb3503f0b",
+        "type": "heading_2",
+        "object": "block",
+        "has_children": false,
+        "created_time": "2026-09-15T14:14:00.000Z",
+        "last_edited_time": "2026-09-15T14:14:00.000Z",
+        "archived": false,
+        "in_trash": false,
+        "content": {
+          "text": "Quick workflow",
+          "rich_text": [
+            {
+              "plain_text": "Quick workflow",
+              "href": null,
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "type": "text",
+              "text": {
+                "content": "Quick workflow",
+                "link": null
+              }
+            }
+          ],
+          "color": "default",
+          "other": {
+            "is_toggleable": false
+          }
+        },
+        "_raw": {
+          "object": "block",
+          "id": "3dce4656-7a3a-812e-a523-e7deb3503f0b",
+          "parent": {
+            "type": "page_id",
+            "page_id": "3dce4656-7a3a-8094-9b51-c158be338e89"
+          },
+          "created_time": "2026-09-15T14:14:00.000Z",
+          "last_edited_time": "2026-09-15T14:14:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "3d6e4656-7a3a-81ee-b965-00275efd9ea6"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "3d6e4656-7a3a-81ee-b965-00275efd9ea6"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "heading_2",
+          "heading_2": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "Quick workflow",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "Quick workflow",
+                "href": null
+              }
+            ],
+            "is_toggleable": false,
+            "color": "default"
+          },
+          "archived": false
+        }
+      },
+      {
+        "id": "3dce4656-7a3a-812f-8a28-f1af77ea0cd3",
+        "type": "bulleted_list_item",
+        "object": "block",
+        "has_children": false,
+        "created_time": "2026-09-15T14:14:00.000Z",
+        "last_edited_time": "2026-09-15T14:14:00.000Z",
+        "archived": false,
+        "in_trash": false,
+        "content": {
+          "text": "📸 Add the screenshot or image.",
+          "rich_text": [
+            {
+              "plain_text": "📸 Add the screenshot or image.",
+              "href": null,
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "type": "text",
+              "text": {
+                "content": "📸 Add the screenshot or image.",
+                "link": null
+              }
+            }
+          ],
+          "color": "default",
+          "other": {}
+        },
+        "_raw": {
+          "object": "block",
+          "id": "3dce4656-7a3a-812f-8a28-f1af77ea0cd3",
+          "parent": {
+            "type": "page_id",
+            "page_id": "3dce4656-7a3a-8094-9b51-c158be338e89"
+          },
+          "created_time": "2026-09-15T14:14:00.000Z",
+          "last_edited_time": "2026-09-15T14:14:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "3d6e4656-7a3a-81ee-b965-00275efd9ea6"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "3d6e4656-7a3a-81ee-b965-00275efd9ea6"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "📸 Add the screenshot or image.",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "📸 Add the screenshot or image.",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "archived": false
+        }
+      },
+      {
+        "id": "3dce4656-7a3a-8178-a8b0-c160b96ca74c",
+        "type": "bulleted_list_item",
+        "object": "block",
+        "has_children": false,
+        "created_time": "2026-09-15T14:14:00.000Z",
+        "last_edited_time": "2026-09-15T14:14:00.000Z",
+        "archived": false,
+        "in_trash": false,
+        "content": {
+          "text": "🕐 Set the exact reminder date and time.",
+          "rich_text": [
+            {
+              "plain_text": "🕐 Set the exact reminder date and time.",
+              "href": null,
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "type": "text",
+              "text": {
+                "content": "🕐 Set the exact reminder date and time.",
+                "link": null
+              }
+            }
+          ],
+          "color": "default",
+          "other": {}
+        },
+        "_raw": {
+          "object": "block",
+          "id": "3dce4656-7a3a-8178-a8b0-c160b96ca74c",
+          "parent": {
+            "type": "page_id",
+            "page_id": "3dce4656-7a3a-8094-9b51-c158be338e89"
+          },
+          "created_time": "2026-09-15T14:14:00.000Z",
+          "last_edited_time": "2026-09-15T14:14:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "3d6e4656-7a3a-81ee-b965-00275efd9ea6"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "3d6e4656-7a3a-81ee-b965-00275efd9ea6"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "🕐 Set the exact reminder date and time.",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "🕐 Set the exact reminder date and time.",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "archived": false
+        }
+      },
+      {
+        "id": "3dce4656-7a3a-8160-ab8b-e5bd8eab63c8",
+        "type": "bulleted_list_item",
+        "object": "block",
+        "has_children": false,
+        "created_time": "2026-09-15T14:14:00.000Z",
+        "last_edited_time": "2026-09-15T14:14:00.000Z",
+        "archived": false,
+        "in_trash": false,
+        "content": {
+          "text": "📝 Write why you need the reminder.",
+          "rich_text": [
+            {
+              "plain_text": "📝 Write why you need the reminder.",
+              "href": null,
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "type": "text",
+              "text": {
+                "content": "📝 Write why you need the reminder.",
+                "link": null
+              }
+            }
+          ],
+          "color": "default",
+          "other": {}
+        },
+        "_raw": {
+          "object": "block",
+          "id": "3dce4656-7a3a-8160-ab8b-e5bd8eab63c8",
+          "parent": {
+            "type": "page_id",
+            "page_id": "3dce4656-7a3a-8094-9b51-c158be338e89"
+          },
+          "created_time": "2026-09-15T14:14:00.000Z",
+          "last_edited_time": "2026-09-15T14:14:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "3d6e4656-7a3a-81ee-b965-00275efd9ea6"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "3d6e4656-7a3a-81ee-b965-00275efd9ea6"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "bulleted_list_item",
+          "bulleted_list_item": {
+            "rich_text": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "📝 Write why you need the reminder.",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "📝 Write why you need the reminder.",
+                "href": null
+              }
+            ],
+            "color": "default"
+          },
+          "archived": false
+        }
+      },
+      {
+        "id": "3dce4656-7a3a-814d-aee0-c339bfce6309",
+        "type": "divider",
+        "object": "block",
+        "has_children": false,
+        "created_time": "2026-09-15T14:14:00.000Z",
+        "last_edited_time": "2026-09-15T14:14:00.000Z",
+        "archived": false,
+        "in_trash": false,
+        "content": {
+          "other": {}
+        },
+        "_raw": {
+          "object": "block",
+          "id": "3dce4656-7a3a-814d-aee0-c339bfce6309",
+          "parent": {
+            "type": "page_id",
+            "page_id": "3dce4656-7a3a-8094-9b51-c158be338e89"
+          },
+          "created_time": "2026-09-15T14:14:00.000Z",
+          "last_edited_time": "2026-09-15T14:14:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "3d6e4656-7a3a-81ee-b965-00275efd9ea6"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "3d6e4656-7a3a-81ee-b965-00275efd9ea6"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "divider",
+          "divider": {},
+          "archived": false
+        }
+      },
+      {
+        "id": "5a5ae58d-f632-48d4-aacd-c7fe446dc787",
+        "type": "child_database",
+        "object": "block",
+        "has_children": false,
+        "created_time": "2026-09-15T14:14:00.000Z",
+        "last_edited_time": "2026-09-15T14:22:00.000Z",
+        "archived": false,
+        "in_trash": false,
+        "content": {
+          "other": {
+            "title": "🔔 Reminder Log"
+          }
+        },
+        "_raw": {
+          "object": "block",
+          "id": "5a5ae58d-f632-48d4-aacd-c7fe446dc787",
+          "parent": {
+            "type": "page_id",
+            "page_id": "3dce4656-7a3a-8094-9b51-c158be338e89"
+          },
+          "created_time": "2026-09-15T14:14:00.000Z",
+          "last_edited_time": "2026-09-15T14:22:00.000Z",
+          "created_by": {
+            "object": "user",
+            "id": "3d6e4656-7a3a-81ee-b965-00275efd9ea6"
+          },
+          "last_edited_by": {
+            "object": "user",
+            "id": "3d6e4656-7a3a-81ee-b965-00275efd9ea6"
+          },
+          "has_children": false,
+          "in_trash": false,
+          "type": "child_database",
+          "child_database": {
+            "title": "🔔 Reminder Log"
+          },
+          "archived": false
+        },
+        "database": {
+          "database_id": "5a5ae58d-f632-48d4-aacd-c7fe446dc787",
+          "type": "database",
+          "properties": {},
+          "rows": [
+            {
+              "id": "3dce4656-7a3a-8159-b87a-cbb922101b02",
+              "type": "page",
+              "url": "https://app.notion.com/p/Live-Concert-Pass-Gate-Ticket-3dce46567a3a8159b87acbb922101b02",
+              "created_time": "2026-09-15T14:22:00.000Z",
+              "last_edited_time": "2026-09-15T14:22:00.000Z",
+              "archived": false,
+              "in_trash": false,
+              "icon": {
+                "type": "emoji",
+                "emoji": "🎵"
+              },
+              "cover": {
+                "type": "external",
+                "external": {
+                  "url": "https://images.unsplash.com/photo-1470225620780-dba8ba36b745?w=800"
+                }
+              },
+              "parent": {
+                "type": "data_source_id",
+                "data_source_id": "3158a540-0094-4457-b893-1a0ad9c778d6",
+                "database_id": "5a5ae58d-f632-48d4-aacd-c7fe446dc787"
+              },
+              "properties": {
+                "📸 Media": {
+                  "id": "A%7DTS",
+                  "type": "files",
+                  "value": {
+                    "type": "files",
+                    "files": [
+                      {
+                        "name": "🎵_live_concert_pass_&_gate_ticket_snapshot.jpg",
+                        "type": "external",
+                        "external": {
+                          "url": "https://images.unsplash.com/photo-1470225620780-dba8ba36b745?w=800"
+                        }
+                      }
+                    ]
+                  }
+                },
+                "🕐 Time to Remind": {
+                  "id": "G%5C%3DL",
+                  "type": "date",
+                  "value": {
+                    "type": "date",
+                    "start": "2026-09-10T18:00:00.000+05:30",
+                    "end": null,
+                    "time_zone": null
+                  }
+                },
+                "📊 Status": {
+                  "id": "XES%3F",
+                  "type": "status",
+                  "value": {
+                    "type": "status",
+                    "name": "Done",
+                    "id": "49c595f8-049d-4b69-a28b-908074434bf7",
+                    "color": "green"
+                  }
+                },
+                "📝 Reason": {
+                  "id": "dWAZ",
+                  "type": "rich_text",
+                  "value": {
+                    "type": "rich_text",
+                    "text": "Show ticket QR code at Gate 4 before 7:00 PM.",
+                    "rich_text": [
+                      {
+                        "plain_text": "Show ticket QR code at Gate 4 before 7:00 PM.",
+                        "href": null,
+                        "annotations": {
+                          "bold": false,
+                          "italic": false,
+                          "strikethrough": false,
+                          "underline": false,
+                          "code": false,
+                          "color": "default"
+                        },
+                        "type": "text",
+                        "text": {
+                          "content": "Show ticket QR code at Gate 4 before 7:00 PM.",
+                          "link": null
+                        }
+                      }
+                    ]
+                  }
+                },
+                "Reminder": {
+                  "id": "title",
+                  "type": "title",
+                  "value": {
+                    "type": "title",
+                    "text": "🎵 Live Concert Pass & Gate Ticket",
+                    "rich_text": [
+                      {
+                        "plain_text": "🎵 Live Concert Pass & Gate Ticket",
+                        "href": null,
+                        "annotations": {
+                          "bold": false,
+                          "italic": false,
+                          "strikethrough": false,
+                          "underline": false,
+                          "code": false,
+                          "color": "default"
+                        },
+                        "type": "text",
+                        "text": {
+                          "content": "🎵 Live Concert Pass & Gate Ticket",
+                          "link": null
+                        }
+                      }
+                    ]
+                  }
+                }
+              },
+              "title": "🎵 Live Concert Pass & Gate Ticket",
+              "children": [
+                {
+                  "id": "3dce4656-7a3a-81c7-a185-f5665af674eb",
+                  "type": "callout",
+                  "object": "block",
+                  "has_children": false,
+                  "created_time": "2026-09-15T14:22:00.000Z",
+                  "last_edited_time": "2026-09-15T14:22:00.000Z",
+                  "archived": false,
+                  "in_trash": false,
+                  "content": {
+                    "text": "Essential Space Reminder: Show ticket QR code at Gate 4 before 7:00 PM.",
+                    "rich_text": [
+                      {
+                        "plain_text": "Essential Space Reminder: Show ticket QR code at Gate 4 before 7:00 PM.",
+                        "href": null,
+                        "annotations": {
+                          "bold": false,
+                          "italic": false,
+                          "strikethrough": false,
+                          "underline": false,
+                          "code": false,
+                          "color": "default"
+                        },
+                        "type": "text",
+                        "text": {
+                          "content": "Essential Space Reminder: Show ticket QR code at Gate 4 before 7:00 PM.",
+                          "link": null
+                        }
+                      }
+                    ],
+                    "color": "gray_background",
+                    "other": {
+                      "icon": {
+                        "type": "emoji",
+                        "emoji": "🎵"
+                      }
+                    }
+                  },
+                  "_raw": {
+                    "object": "block",
+                    "id": "3dce4656-7a3a-81c7-a185-f5665af674eb",
+                    "parent": {
+                      "type": "page_id",
+                      "page_id": "3dce4656-7a3a-8159-b87a-cbb922101b02"
+                    },
+                    "created_time": "2026-09-15T14:22:00.000Z",
+                    "last_edited_time": "2026-09-15T14:22:00.000Z",
+                    "created_by": {
+                      "object": "user",
+                      "id": "3d6e4656-7a3a-81ee-b965-00275efd9ea6"
+                    },
+                    "last_edited_by": {
+                      "object": "user",
+                      "id": "3d6e4656-7a3a-81ee-b965-00275efd9ea6"
+                    },
+                    "has_children": false,
+                    "in_trash": false,
+                    "type": "callout",
+                    "callout": {
+                      "rich_text": [
+                        {
+                          "type": "text",
+                          "text": {
+                            "content": "Essential Space Reminder: Show ticket QR code at Gate 4 before 7:00 PM.",
+                            "link": null
+                          },
+                          "annotations": {
+                            "bold": false,
+                            "italic": false,
+                            "strikethrough": false,
+                            "underline": false,
+                            "code": false,
+                            "color": "default"
+                          },
+                          "plain_text": "Essential Space Reminder: Show ticket QR code at Gate 4 before 7:00 PM.",
+                          "href": null
+                        }
+                      ],
+                      "icon": {
+                        "type": "emoji",
+                        "emoji": "🎵"
+                      },
+                      "color": "gray_background"
+                    },
+                    "archived": false
+                  }
+                },
+                {
+                  "id": "3dce4656-7a3a-81c5-9a08-d4d9ad54d074",
+                  "type": "heading_3",
+                  "object": "block",
+                  "has_children": false,
+                  "created_time": "2026-09-15T14:22:00.000Z",
+                  "last_edited_time": "2026-09-15T14:22:00.000Z",
+                  "archived": false,
+                  "in_trash": false,
+                  "content": {
+                    "text": "📸 Captured Media",
+                    "rich_text": [
+                      {
+                        "plain_text": "📸 Captured Media",
+                        "href": null,
+                        "annotations": {
+                          "bold": false,
+                          "italic": false,
+                          "strikethrough": false,
+                          "underline": false,
+                          "code": false,
+                          "color": "default"
+                        },
+                        "type": "text",
+                        "text": {
+                          "content": "📸 Captured Media",
+                          "link": null
+                        }
+                      }
+                    ],
+                    "color": "default",
+                    "other": {
+                      "is_toggleable": false
+                    }
+                  },
+                  "_raw": {
+                    "object": "block",
+                    "id": "3dce4656-7a3a-81c5-9a08-d4d9ad54d074",
+                    "parent": {
+                      "type": "page_id",
+                      "page_id": "3dce4656-7a3a-8159-b87a-cbb922101b02"
+                    },
+                    "created_time": "2026-09-15T14:22:00.000Z",
+                    "last_edited_time": "2026-09-15T14:22:00.000Z",
+                    "created_by": {
+                      "object": "user",
+                      "id": "3d6e4656-7a3a-81ee-b965-00275efd9ea6"
+                    },
+                    "last_edited_by": {
+                      "object": "user",
+                      "id": "3d6e4656-7a3a-81ee-b965-00275efd9ea6"
+                    },
+                    "has_children": false,
+                    "in_trash": false,
+                    "type": "heading_3",
+                    "heading_3": {
+                      "rich_text": [
+                        {
+                          "type": "text",
+                          "text": {
+                            "content": "📸 Captured Media",
+                            "link": null
+                          },
+                          "annotations": {
+                            "bold": false,
+                            "italic": false,
+                            "strikethrough": false,
+                            "underline": false,
+                            "code": false,
+                            "color": "default"
+                          },
+                          "plain_text": "📸 Captured Media",
+                          "href": null
+                        }
+                      ],
+                      "is_toggleable": false,
+                      "color": "default"
+                    },
+                    "archived": false
+                  }
+                },
+                {
+                  "id": "3dce4656-7a3a-81ff-8a89-c313a0c725f9",
+                  "type": "image",
+                  "object": "block",
+                  "has_children": false,
+                  "created_time": "2026-09-15T14:22:00.000Z",
+                  "last_edited_time": "2026-09-15T14:22:00.000Z",
+                  "archived": false,
+                  "in_trash": false,
+                  "content": {
+                    "caption": "",
+                    "external": {
+                      "url": "https://images.unsplash.com/photo-1470225620780-dba8ba36b745?w=800"
+                    },
+                    "other": {
+                      "type": "external"
+                    }
+                  },
+                  "_raw": {
+                    "object": "block",
+                    "id": "3dce4656-7a3a-81ff-8a89-c313a0c725f9",
+                    "parent": {
+                      "type": "page_id",
+                      "page_id": "3dce4656-7a3a-8159-b87a-cbb922101b02"
+                    },
+                    "created_time": "2026-09-15T14:22:00.000Z",
+                    "last_edited_time": "2026-09-15T14:22:00.000Z",
+                    "created_by": {
+                      "object": "user",
+                      "id": "3d6e4656-7a3a-81ee-b965-00275efd9ea6"
+                    },
+                    "last_edited_by": {
+                      "object": "user",
+                      "id": "3d6e4656-7a3a-81ee-b965-00275efd9ea6"
+                    },
+                    "has_children": false,
+                    "in_trash": false,
+                    "type": "image",
+                    "image": {
+                      "caption": [],
+                      "type": "external",
+                      "external": {
+                        "url": "https://images.unsplash.com/photo-1470225620780-dba8ba36b745?w=800"
+                      }
+                    },
+                    "archived": false
+                  }
+                },
+                {
+                  "id": "3dce4656-7a3a-81c1-838f-e4a7d5afb49a",
+                  "type": "heading_3",
+                  "object": "block",
+                  "has_children": false,
+                  "created_time": "2026-09-15T14:22:00.000Z",
+                  "last_edited_time": "2026-09-15T14:22:00.000Z",
+                  "archived": false,
+                  "in_trash": false,
+                  "content": {
+                    "text": "⏰ Reminder Details",
+                    "rich_text": [
+                      {
+                        "plain_text": "⏰ Reminder Details",
+                        "href": null,
+                        "annotations": {
+                          "bold": false,
+                          "italic": false,
+                          "strikethrough": false,
+                          "underline": false,
+                          "code": false,
+                          "color": "default"
+                        },
+                        "type": "text",
+                        "text": {
+                          "content": "⏰ Reminder Details",
+                          "link": null
+                        }
+                      }
+                    ],
+                    "color": "default",
+                    "other": {
+                      "is_toggleable": false
+                    }
+                  },
+                  "_raw": {
+                    "object": "block",
+                    "id": "3dce4656-7a3a-81c1-838f-e4a7d5afb49a",
+                    "parent": {
+                      "type": "page_id",
+                      "page_id": "3dce4656-7a3a-8159-b87a-cbb922101b02"
+                    },
+                    "created_time": "2026-09-15T14:22:00.000Z",
+                    "last_edited_time": "2026-09-15T14:22:00.000Z",
+                    "created_by": {
+                      "object": "user",
+                      "id": "3d6e4656-7a3a-81ee-b965-00275efd9ea6"
+                    },
+                    "last_edited_by": {
+                      "object": "user",
+                      "id": "3d6e4656-7a3a-81ee-b965-00275efd9ea6"
+                    },
+                    "has_children": false,
+                    "in_trash": false,
+                    "type": "heading_3",
+                    "heading_3": {
+                      "rich_text": [
+                        {
+                          "type": "text",
+                          "text": {
+                            "content": "⏰ Reminder Details",
+                            "link": null
+                          },
+                          "annotations": {
+                            "bold": false,
+                            "italic": false,
+                            "strikethrough": false,
+                            "underline": false,
+                            "code": false,
+                            "color": "default"
+                          },
+                          "plain_text": "⏰ Reminder Details",
+                          "href": null
+                        }
+                      ],
+                      "is_toggleable": false,
+                      "color": "default"
+                    },
+                    "archived": false
+                  }
+                },
+                {
+                  "id": "3dce4656-7a3a-8114-b453-cddb8e946bad",
+                  "type": "bulleted_list_item",
+                  "object": "block",
+                  "has_children": false,
+                  "created_time": "2026-09-15T14:22:00.000Z",
+                  "last_edited_time": "2026-09-15T14:22:00.000Z",
+                  "archived": false,
+                  "in_trash": false,
+                  "content": {
+                    "text": "Scheduled Time: 2026-09-10T18:00:00+05:30",
+                    "rich_text": [
+                      {
+                        "plain_text": "Scheduled Time: ",
+                        "href": null,
+                        "annotations": {
+                          "bold": true,
+                          "italic": false,
+                          "strikethrough": false,
+                          "underline": false,
+                          "code": false,
+                          "color": "default"
+                        },
+                        "type": "text",
+                        "text": {
+                          "content": "Scheduled Time: ",
+                          "link": null
+                        }
+                      },
+                      {
+                        "plain_text": "2026-09-10T18:00:00+05:30",
+                        "href": null,
+                        "annotations": {
+                          "bold": false,
+                          "italic": false,
+                          "strikethrough": false,
+                          "underline": false,
+                          "code": false,
+                          "color": "default"
+                        },
+                        "type": "text",
+                        "text": {
+                          "content": "2026-09-10T18:00:00+05:30",
+                          "link": null
+                        }
+                      }
+                    ],
+                    "color": "default",
+                    "other": {}
+                  },
+                  "_raw": {
+                    "object": "block",
+                    "id": "3dce4656-7a3a-8114-b453-cddb8e946bad",
+                    "parent": {
+                      "type": "page_id",
+                      "page_id": "3dce4656-7a3a-8159-b87a-cbb922101b02"
+                    },
+                    "created_time": "2026-09-15T14:22:00.000Z",
+                    "last_edited_time": "2026-09-15T14:22:00.000Z",
+                    "created_by": {
+                      "object": "user",
+                      "id": "3d6e4656-7a3a-81ee-b965-00275efd9ea6"
+                    },
+                    "last_edited_by": {
+                      "object": "user",
+                      "id": "3d6e4656-7a3a-81ee-b965-00275efd9ea6"
+                    },
+                    "has_children": false,
+                    "in_trash": false,
+                    "type": "bulleted_list_item",
+                    "bulleted_list_item": {
+                      "rich_text": [
+                        {
+                          "type": "text",
+                          "text": {
+                            "content": "Scheduled Time: ",
+                            "link": null
+                          },
+                          "annotations": {
+                            "bold": true,
+                            "italic": false,
+                            "strikethrough": false,
+                            "underline": false,
+                            "code": false,
+                            "color": "default"
+                          },
+                          "plain_text": "Scheduled Time: ",
+                          "href": null
+                        },
+                        {
+                          "type": "text",
+                          "text": {
+                            "content": "2026-09-10T18:00:00+05:30",
+                            "link": null
+                          },
+                          "annotations": {
+                            "bold": false,
+                            "italic": false,
+                            "strikethrough": false,
+                            "underline": false,
+                            "code": false,
+                            "color": "default"
+                          },
+                          "plain_text": "2026-09-10T18:00:00+05:30",
+                          "href": null
+                        }
+                      ],
+                      "color": "default"
+                    },
+                    "archived": false
+                  }
+                },
+                {
+                  "id": "3dce4656-7a3a-81ee-95e8-d57103abbb43",
+                  "type": "bulleted_list_item",
+                  "object": "block",
+                  "has_children": false,
+                  "created_time": "2026-09-15T14:22:00.000Z",
+                  "last_edited_time": "2026-09-15T14:22:00.000Z",
+                  "archived": false,
+                  "in_trash": false,
+                  "content": {
+                    "text": "Reason / Trigger: Show ticket QR code at Gate 4 before 7:00 PM.",
+                    "rich_text": [
+                      {
+                        "plain_text": "Reason / Trigger: ",
+                        "href": null,
+                        "annotations": {
+                          "bold": true,
+                          "italic": false,
+                          "strikethrough": false,
+                          "underline": false,
+                          "code": false,
+                          "color": "default"
+                        },
+                        "type": "text",
+                        "text": {
+                          "content": "Reason / Trigger: ",
+                          "link": null
+                        }
+                      },
+                      {
+                        "plain_text": "Show ticket QR code at Gate 4 before 7:00 PM.",
+                        "href": null,
+                        "annotations": {
+                          "bold": false,
+                          "italic": false,
+                          "strikethrough": false,
+                          "underline": false,
+                          "code": false,
+                          "color": "default"
+                        },
+                        "type": "text",
+                        "text": {
+                          "content": "Show ticket QR code at Gate 4 before 7:00 PM.",
+                          "link": null
+                        }
+                      }
+                    ],
+                    "color": "default",
+                    "other": {}
+                  },
+                  "_raw": {
+                    "object": "block",
+                    "id": "3dce4656-7a3a-81ee-95e8-d57103abbb43",
+                    "parent": {
+                      "type": "page_id",
+                      "page_id": "3dce4656-7a3a-8159-b87a-cbb922101b02"
+                    },
+                    "created_time": "2026-09-15T14:22:00.000Z",
+                    "last_edited_time": "2026-09-15T14:22:00.000Z",
+                    "created_by": {
+                      "object": "user",
+                      "id": "3d6e4656-7a3a-81ee-b965-00275efd9ea6"
+                    },
+                    "last_edited_by": {
+                      "object": "user",
+                      "id": "3d6e4656-7a3a-81ee-b965-00275efd9ea6"
+                    },
+                    "has_children": false,
+                    "in_trash": false,
+                    "type": "bulleted_list_item",
+                    "bulleted_list_item": {
+                      "rich_text": [
+                        {
+                          "type": "text",
+                          "text": {
+                            "content": "Reason / Trigger: ",
+                            "link": null
+                          },
+                          "annotations": {
+                            "bold": true,
+                            "italic": false,
+                            "strikethrough": false,
+                            "underline": false,
+                            "code": false,
+                            "color": "default"
+                          },
+                          "plain_text": "Reason / Trigger: ",
+                          "href": null
+                        },
+                        {
+                          "type": "text",
+                          "text": {
+                            "content": "Show ticket QR code at Gate 4 before 7:00 PM.",
+                            "link": null
+                          },
+                          "annotations": {
+                            "bold": false,
+                            "italic": false,
+                            "strikethrough": false,
+                            "underline": false,
+                            "code": false,
+                            "color": "default"
+                          },
+                          "plain_text": "Show ticket QR code at Gate 4 before 7:00 PM.",
+                          "href": null
+                        }
+                      ],
+                      "color": "default"
+                    },
+                    "archived": false
+                  }
+                }
+              ],
+              "_raw": {
+                "object": "page",
+                "id": "3dce4656-7a3a-8159-b87a-cbb922101b02",
+                "created_time": "2026-09-15T14:22:00.000Z",
+                "last_edited_time": "2026-09-15T14:22:00.000Z",
+                "created_by": {
+                  "object": "user",
+                  "id": "3d6e4656-7a3a-81ee-b965-00275efd9ea6"
+                },
+                "last_edited_by": {
+                  "object": "user",
+                  "id": "3d6e4656-7a3a-81ee-b965-00275efd9ea6"
+                },
+                "cover": {
+                  "type": "external",
+                  "external": {
+                    "url": "https://images.unsplash.com/photo-1470225620780-dba8ba36b745?w=800"
+                  }
+                },
+                "icon": {
+                  "type": "emoji",
+                  "emoji": "🎵"
+                },
+                "parent": {
+                  "type": "data_source_id",
+                  "data_source_id": "3158a540-0094-4457-b893-1a0ad9c778d6",
+                  "database_id": "5a5ae58d-f632-48d4-aacd-c7fe446dc787"
+                },
+                "in_trash": false,
+                "is_archived": false,
+                "is_locked": false,
+                "properties": {
+                  "📸 Media": {
+                    "id": "A%7DTS",
+                    "type": "files",
+                    "files": [
+                      {
+                        "name": "🎵_live_concert_pass_&_gate_ticket_snapshot.jpg",
+                        "type": "external",
+                        "external": {
+                          "url": "https://images.unsplash.com/photo-1470225620780-dba8ba36b745?w=800"
+                        }
+                      }
+                    ]
+                  },
+                  "🕐 Time to Remind": {
+                    "id": "G%5C%3DL",
+                    "type": "date",
+                    "date": {
+                      "start": "2026-09-10T18:00:00.000+05:30",
+                      "end": null,
+                      "time_zone": null
+                    }
+                  },
+                  "📊 Status": {
+                    "id": "XES%3F",
+                    "type": "status",
+                    "status": {
+                      "id": "49c595f8-049d-4b69-a28b-908074434bf7",
+                      "name": "Done",
+                      "color": "green"
+                    }
+                  },
+                  "📝 Reason": {
+                    "id": "dWAZ",
+                    "type": "rich_text",
+                    "rich_text": [
+                      {
+                        "type": "text",
+                        "text": {
+                          "content": "Show ticket QR code at Gate 4 before 7:00 PM.",
+                          "link": null
+                        },
+                        "annotations": {
+                          "bold": false,
+                          "italic": false,
+                          "strikethrough": false,
+                          "underline": false,
+                          "code": false,
+                          "color": "default"
+                        },
+                        "plain_text": "Show ticket QR code at Gate 4 before 7:00 PM.",
+                        "href": null
+                      }
+                    ]
+                  },
+                  "Reminder": {
+                    "id": "title",
+                    "type": "title",
+                    "title": [
+                      {
+                        "type": "text",
+                        "text": {
+                          "content": "🎵 Live Concert Pass & Gate Ticket",
+                          "link": null
+                        },
+                        "annotations": {
+                          "bold": false,
+                          "italic": false,
+                          "strikethrough": false,
+                          "underline": false,
+                          "code": false,
+                          "color": "default"
+                        },
+                        "plain_text": "🎵 Live Concert Pass & Gate Ticket",
+                        "href": null
+                      }
+                    ]
+                  }
+                },
+                "url": "https://app.notion.com/p/Live-Concert-Pass-Gate-Ticket-3dce46567a3a8159b87acbb922101b02",
+                "public_url": null,
+                "archived": false,
+                "request_id": "6bdfbb7f-01f7-4aa6-92ab-3a9868254e6c"
+              }
+            },
+            {
+              "id": "3dce4656-7a3a-8164-9391-fdbd26d92bca",
+              "type": "page",
+              "url": "https://app.notion.com/p/Annual-Health-Checkup-Appointment-3dce46567a3a81649391fdbd26d92bca",
+              "created_time": "2026-09-15T14:22:00.000Z",
+              "last_edited_time": "2026-09-15T14:22:00.000Z",
+              "archived": false,
+              "in_trash": false,
+              "icon": {
+                "type": "emoji",
+                "emoji": "🩺"
+              },
+              "cover": {
+                "type": "external",
+                "external": {
+                  "url": "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?w=800"
+                }
+              },
+              "parent": {
+                "type": "data_source_id",
+                "data_source_id": "3158a540-0094-4457-b893-1a0ad9c778d6",
+                "database_id": "5a5ae58d-f632-48d4-aacd-c7fe446dc787"
+              },
+              "properties": {
+                "📸 Media": {
+                  "id": "A%7DTS",
+                  "type": "files",
+                  "value": {
+                    "type": "files",
+                    "files": [
+                      {
+                        "name": "🩺_annual_health_checkup_appointment_snapshot.jpg",
+                        "type": "external",
+                        "external": {
+                          "url": "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?w=800"
+                        }
+                      }
+                    ]
+                  }
+                },
+                "🕐 Time to Remind": {
+                  "id": "G%5C%3DL",
+                  "type": "date",
+                  "value": {
+                    "type": "date",
+                    "start": "2026-09-20T10:30:00.000+05:30",
+                    "end": null,
+                    "time_zone": null
+                  }
+                },
+                "📊 Status": {
+                  "id": "XES%3F",
+                  "type": "status",
+                  "value": {
+                    "type": "status",
+                    "name": "Upcoming",
+                    "id": "b12d3ee7-a026-42ae-8d6a-e1412a32f439",
+                    "color": "blue"
+                  }
+                },
+                "📝 Reason": {
+                  "id": "dWAZ",
+                  "type": "rich_text",
+                  "value": {
+                    "type": "rich_text",
+                    "text": "Fast 8 hours prior to blood test. Bring previous medical history records.",
+                    "rich_text": [
+                      {
+                        "plain_text": "Fast 8 hours prior to blood test. Bring previous medical history records.",
+                        "href": null,
+                        "annotations": {
+                          "bold": false,
+                          "italic": false,
+                          "strikethrough": false,
+                          "underline": false,
+                          "code": false,
+                          "color": "default"
+                        },
+                        "type": "text",
+                        "text": {
+                          "content": "Fast 8 hours prior to blood test. Bring previous medical history records.",
+                          "link": null
+                        }
+                      }
+                    ]
+                  }
+                },
+                "Reminder": {
+                  "id": "title",
+                  "type": "title",
+                  "value": {
+                    "type": "title",
+                    "text": "🩺 Annual Health Checkup Appointment",
+                    "rich_text": [
+                      {
+                        "plain_text": "🩺 Annual Health Checkup Appointment",
+                        "href": null,
+                        "annotations": {
+                          "bold": false,
+                          "italic": false,
+                          "strikethrough": false,
+                          "underline": false,
+                          "code": false,
+                          "color": "default"
+                        },
+                        "type": "text",
+                        "text": {
+                          "content": "🩺 Annual Health Checkup Appointment",
+                          "link": null
+                        }
+                      }
+                    ]
+                  }
+                }
+              },
+              "title": "🩺 Annual Health Checkup Appointment",
+              "children": [
+                {
+                  "id": "3dce4656-7a3a-8134-9db8-e29f4ef4653b",
+                  "type": "callout",
+                  "object": "block",
+                  "has_children": false,
+                  "created_time": "2026-09-15T14:22:00.000Z",
+                  "last_edited_time": "2026-09-15T14:22:00.000Z",
+                  "archived": false,
+                  "in_trash": false,
+                  "content": {
+                    "text": "Essential Space Reminder: Fast 8 hours prior to blood test. Bring previous medical history records.",
+                    "rich_text": [
+                      {
+                        "plain_text": "Essential Space Reminder: Fast 8 hours prior to blood test. Bring previous medical history records.",
+                        "href": null,
+                        "annotations": {
+                          "bold": false,
+                          "italic": false,
+                          "strikethrough": false,
+                          "underline": false,
+                          "code": false,
+                          "color": "default"
+                        },
+                        "type": "text",
+                        "text": {
+                          "content": "Essential Space Reminder: Fast 8 hours prior to blood test. Bring previous medical history records.",
+                          "link": null
+                        }
+                      }
+                    ],
+                    "color": "gray_background",
+                    "other": {
+                      "icon": {
+                        "type": "emoji",
+                        "emoji": "🩺"
+                      }
+                    }
+                  },
+                  "_raw": {
+                    "object": "block",
+                    "id": "3dce4656-7a3a-8134-9db8-e29f4ef4653b",
+                    "parent": {
+                      "type": "page_id",
+                      "page_id": "3dce4656-7a3a-8164-9391-fdbd26d92bca"
+                    },
+                    "created_time": "2026-09-15T14:22:00.000Z",
+                    "last_edited_time": "2026-09-15T14:22:00.000Z",
+                    "created_by": {
+                      "object": "user",
+                      "id": "3d6e4656-7a3a-81ee-b965-00275efd9ea6"
+                    },
+                    "last_edited_by": {
+                      "object": "user",
+                      "id": "3d6e4656-7a3a-81ee-b965-00275efd9ea6"
+                    },
+                    "has_children": false,
+                    "in_trash": false,
+                    "type": "callout",
+                    "callout": {
+                      "rich_text": [
+                        {
+                          "type": "text",
+                          "text": {
+                            "content": "Essential Space Reminder: Fast 8 hours prior to blood test. Bring previous medical history records.",
+                            "link": null
+                          },
+                          "annotations": {
+                            "bold": false,
+                            "italic": false,
+                            "strikethrough": false,
+                            "underline": false,
+                            "code": false,
+                            "color": "default"
+                          },
+                          "plain_text": "Essential Space Reminder: Fast 8 hours prior to blood test. Bring previous medical history records.",
+                          "href": null
+                        }
+                      ],
+                      "icon": {
+                        "type": "emoji",
+                        "emoji": "🩺"
+                      },
+                      "color": "gray_background"
+                    },
+                    "archived": false
+                  }
+                },
+                {
+                  "id": "3dce4656-7a3a-81bb-bc1e-cab4ad9a673a",
+                  "type": "heading_3",
+                  "object": "block",
+                  "has_children": false,
+                  "created_time": "2026-09-15T14:22:00.000Z",
+                  "last_edited_time": "2026-09-15T14:22:00.000Z",
+                  "archived": false,
+                  "in_trash": false,
+                  "content": {
+                    "text": "📸 Captured Media",
+                    "rich_text": [
+                      {
+                        "plain_text": "📸 Captured Media",
+                        "href": null,
+                        "annotations": {
+                          "bold": false,
+                          "italic": false,
+                          "strikethrough": false,
+                          "underline": false,
+                          "code": false,
+                          "color": "default"
+                        },
+                        "type": "text",
+                        "text": {
+                          "content": "📸 Captured Media",
+                          "link": null
+                        }
+                      }
+                    ],
+                    "color": "default",
+                    "other": {
+                      "is_toggleable": false
+                    }
+                  },
+                  "_raw": {
+                    "object": "block",
+                    "id": "3dce4656-7a3a-81bb-bc1e-cab4ad9a673a",
+                    "parent": {
+                      "type": "page_id",
+                      "page_id": "3dce4656-7a3a-8164-9391-fdbd26d92bca"
+                    },
+                    "created_time": "2026-09-15T14:22:00.000Z",
+                    "last_edited_time": "2026-09-15T14:22:00.000Z",
+                    "created_by": {
+                      "object": "user",
+                      "id": "3d6e4656-7a3a-81ee-b965-00275efd9ea6"
+                    },
+                    "last_edited_by": {
+                      "object": "user",
+                      "id": "3d6e4656-7a3a-81ee-b965-00275efd9ea6"
+                    },
+                    "has_children": false,
+                    "in_trash": false,
+                    "type": "heading_3",
+                    "heading_3": {
+                      "rich_text": [
+                        {
+                          "type": "text",
+                          "text": {
+                            "content": "📸 Captured Media",
+                            "link": null
+                          },
+                          "annotations": {
+                            "bold": false,
+                            "italic": false,
+                            "strikethrough": false,
+                            "underline": false,
+                            "code": false,
+                            "color": "default"
+                          },
+                          "plain_text": "📸 Captured Media",
+                          "href": null
+                        }
+                      ],
+                      "is_toggleable": false,
+                      "color": "default"
+                    },
+                    "archived": false
+                  }
+                },
+                {
+                  "id": "3dce4656-7a3a-811a-b6f4-fbad7054b10f",
+                  "type": "image",
+                  "object": "block",
+                  "has_children": false,
+                  "created_time": "2026-09-15T14:22:00.000Z",
+                  "last_edited_time": "2026-09-15T14:22:00.000Z",
+                  "archived": false,
+                  "in_trash": false,
+                  "content": {
+                    "caption": "",
+                    "external": {
+                      "url": "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?w=800"
+                    },
+                    "other": {
+                      "type": "external"
+                    }
+                  },
+                  "_raw": {
+                    "object": "block",
+                    "id": "3dce4656-7a3a-811a-b6f4-fbad7054b10f",
+                    "parent": {
+                      "type": "page_id",
+                      "page_id": "3dce4656-7a3a-8164-9391-fdbd26d92bca"
+                    },
+                    "created_time": "2026-09-15T14:22:00.000Z",
+                    "last_edited_time": "2026-09-15T14:22:00.000Z",
+                    "created_by": {
+                      "object": "user",
+                      "id": "3d6e4656-7a3a-81ee-b965-00275efd9ea6"
+                    },
+                    "last_edited_by": {
+                      "object": "user",
+                      "id": "3d6e4656-7a3a-81ee-b965-00275efd9ea6"
+                    },
+                    "has_children": false,
+                    "in_trash": false,
+                    "type": "image",
+                    "image": {
+                      "caption": [],
+                      "type": "external",
+                      "external": {
+                        "url": "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?w=800"
+                      }
+                    },
+                    "archived": false
+                  }
+                },
+                {
+                  "id": "3dce4656-7a3a-81af-869d-c89e654c936b",
+                  "type": "heading_3",
+                  "object": "block",
+                  "has_children": false,
+                  "created_time": "2026-09-15T14:22:00.000Z",
+                  "last_edited_time": "2026-09-15T14:22:00.000Z",
+                  "archived": false,
+                  "in_trash": false,
+                  "content": {
+                    "text": "⏰ Reminder Details",
+                    "rich_text": [
+                      {
+                        "plain_text": "⏰ Reminder Details",
+                        "href": null,
+                        "annotations": {
+                          "bold": false,
+                          "italic": false,
+                          "strikethrough": false,
+                          "underline": false,
+                          "code": false,
+                          "color": "default"
+                        },
+                        "type": "text",
+                        "text": {
+                          "content": "⏰ Reminder Details",
+                          "link": null
+                        }
+                      }
+                    ],
+                    "color": "default",
+                    "other": {
+                      "is_toggleable": false
+                    }
+                  },
+                  "_raw": {
+                    "object": "block",
+                    "id": "3dce4656-7a3a-81af-869d-c89e654c936b",
+                    "parent": {
+                      "type": "page_id",
+                      "page_id": "3dce4656-7a3a-8164-9391-fdbd26d92bca"
+                    },
+                    "created_time": "2026-09-15T14:22:00.000Z",
+                    "last_edited_time": "2026-09-15T14:22:00.000Z",
+                    "created_by": {
+                      "object": "user",
+                      "id": "3d6e4656-7a3a-81ee-b965-00275efd9ea6"
+                    },
+                    "last_edited_by": {
+                      "object": "user",
+                      "id": "3d6e4656-7a3a-81ee-b965-00275efd9ea6"
+                    },
+                    "has_children": false,
+                    "in_trash": false,
+                    "type": "heading_3",
+                    "heading_3": {
+                      "rich_text": [
+                        {
+                          "type": "text",
+                          "text": {
+                            "content": "⏰ Reminder Details",
+                            "link": null
+                          },
+                          "annotations": {
+                            "bold": false,
+                            "italic": false,
+                            "strikethrough": false,
+                            "underline": false,
+                            "code": false,
+                            "color": "default"
+                          },
+                          "plain_text": "⏰ Reminder Details",
+                          "href": null
+                        }
+                      ],
+                      "is_toggleable": false,
+                      "color": "default"
+                    },
+                    "archived": false
+                  }
+                },
+                {
+                  "id": "3dce4656-7a3a-816f-bc39-c577805e0e35",
+                  "type": "bulleted_list_item",
+                  "object": "block",
+                  "has_children": false,
+                  "created_time": "2026-09-15T14:22:00.000Z",
+                  "last_edited_time": "2026-09-15T14:22:00.000Z",
+                  "archived": false,
+                  "in_trash": false,
+                  "content": {
+                    "text": "Scheduled Time: 2026-09-20T10:30:00+05:30",
+                    "rich_text": [
+                      {
+                        "plain_text": "Scheduled Time: ",
+                        "href": null,
+                        "annotations": {
+                          "bold": true,
+                          "italic": false,
+                          "strikethrough": false,
+                          "underline": false,
+                          "code": false,
+                          "color": "default"
+                        },
+                        "type": "text",
+                        "text": {
+                          "content": "Scheduled Time: ",
+                          "link": null
+                        }
+                      },
+                      {
+                        "plain_text": "2026-09-20T10:30:00+05:30",
+                        "href": null,
+                        "annotations": {
+                          "bold": false,
+                          "italic": false,
+                          "strikethrough": false,
+                          "underline": false,
+                          "code": false,
+                          "color": "default"
+                        },
+                        "type": "text",
+                        "text": {
+                          "content": "2026-09-20T10:30:00+05:30",
+                          "link": null
+                        }
+                      }
+                    ],
+                    "color": "default",
+                    "other": {}
+                  },
+                  "_raw": {
+                    "object": "block",
+                    "id": "3dce4656-7a3a-816f-bc39-c577805e0e35",
+                    "parent": {
+                      "type": "page_id",
+                      "page_id": "3dce4656-7a3a-8164-9391-fdbd26d92bca"
+                    },
+                    "created_time": "2026-09-15T14:22:00.000Z",
+                    "last_edited_time": "2026-09-15T14:22:00.000Z",
+                    "created_by": {
+                      "object": "user",
+                      "id": "3d6e4656-7a3a-81ee-b965-00275efd9ea6"
+                    },
+                    "last_edited_by": {
+                      "object": "user",
+                      "id": "3d6e4656-7a3a-81ee-b965-00275efd9ea6"
+                    },
+                    "has_children": false,
+                    "in_trash": false,
+                    "type": "bulleted_list_item",
+                    "bulleted_list_item": {
+                      "rich_text": [
+                        {
+                          "type": "text",
+                          "text": {
+                            "content": "Scheduled Time: ",
+                            "link": null
+                          },
+                          "annotations": {
+                            "bold": true,
+                            "italic": false,
+                            "strikethrough": false,
+                            "underline": false,
+                            "code": false,
+                            "color": "default"
+                          },
+                          "plain_text": "Scheduled Time: ",
+                          "href": null
+                        },
+                        {
+                          "type": "text",
+                          "text": {
+                            "content": "2026-09-20T10:30:00+05:30",
+                            "link": null
+                          },
+                          "annotations": {
+                            "bold": false,
+                            "italic": false,
+                            "strikethrough": false,
+                            "underline": false,
+                            "code": false,
+                            "color": "default"
+                          },
+                          "plain_text": "2026-09-20T10:30:00+05:30",
+                          "href": null
+                        }
+                      ],
+                      "color": "default"
+                    },
+                    "archived": false
+                  }
+                },
+                {
+                  "id": "3dce4656-7a3a-81fa-9248-fb38d89e7a7e",
+                  "type": "bulleted_list_item",
+                  "object": "block",
+                  "has_children": false,
+                  "created_time": "2026-09-15T14:22:00.000Z",
+                  "last_edited_time": "2026-09-15T14:22:00.000Z",
+                  "archived": false,
+                  "in_trash": false,
+                  "content": {
+                    "text": "Reason / Trigger: Fast 8 hours prior to blood test. Bring previous medical history records.",
+                    "rich_text": [
+                      {
+                        "plain_text": "Reason / Trigger: ",
+                        "href": null,
+                        "annotations": {
+                          "bold": true,
+                          "italic": false,
+                          "strikethrough": false,
+                          "underline": false,
+                          "code": false,
+                          "color": "default"
+                        },
+                        "type": "text",
+                        "text": {
+                          "content": "Reason / Trigger: ",
+                          "link": null
+                        }
+                      },
+                      {
+                        "plain_text": "Fast 8 hours prior to blood test. Bring previous medical history records.",
+                        "href": null,
+                        "annotations": {
+                          "bold": false,
+                          "italic": false,
+                          "strikethrough": false,
+                          "underline": false,
+                          "code": false,
+                          "color": "default"
+                        },
+                        "type": "text",
+                        "text": {
+                          "content": "Fast 8 hours prior to blood test. Bring previous medical history records.",
+                          "link": null
+                        }
+                      }
+                    ],
+                    "color": "default",
+                    "other": {}
+                  },
+                  "_raw": {
+                    "object": "block",
+                    "id": "3dce4656-7a3a-81fa-9248-fb38d89e7a7e",
+                    "parent": {
+                      "type": "page_id",
+                      "page_id": "3dce4656-7a3a-8164-9391-fdbd26d92bca"
+                    },
+                    "created_time": "2026-09-15T14:22:00.000Z",
+                    "last_edited_time": "2026-09-15T14:22:00.000Z",
+                    "created_by": {
+                      "object": "user",
+                      "id": "3d6e4656-7a3a-81ee-b965-00275efd9ea6"
+                    },
+                    "last_edited_by": {
+                      "object": "user",
+                      "id": "3d6e4656-7a3a-81ee-b965-00275efd9ea6"
+                    },
+                    "has_children": false,
+                    "in_trash": false,
+                    "type": "bulleted_list_item",
+                    "bulleted_list_item": {
+                      "rich_text": [
+                        {
+                          "type": "text",
+                          "text": {
+                            "content": "Reason / Trigger: ",
+                            "link": null
+                          },
+                          "annotations": {
+                            "bold": true,
+                            "italic": false,
+                            "strikethrough": false,
+                            "underline": false,
+                            "code": false,
+                            "color": "default"
+                          },
+                          "plain_text": "Reason / Trigger: ",
+                          "href": null
+                        },
+                        {
+                          "type": "text",
+                          "text": {
+                            "content": "Fast 8 hours prior to blood test. Bring previous medical history records.",
+                            "link": null
+                          },
+                          "annotations": {
+                            "bold": false,
+                            "italic": false,
+                            "strikethrough": false,
+                            "underline": false,
+                            "code": false,
+                            "color": "default"
+                          },
+                          "plain_text": "Fast 8 hours prior to blood test. Bring previous medical history records.",
+                          "href": null
+                        }
+                      ],
+                      "color": "default"
+                    },
+                    "archived": false
+                  }
+                }
+              ],
+              "_raw": {
+                "object": "page",
+                "id": "3dce4656-7a3a-8164-9391-fdbd26d92bca",
+                "created_time": "2026-09-15T14:22:00.000Z",
+                "last_edited_time": "2026-09-15T14:22:00.000Z",
+                "created_by": {
+                  "object": "user",
+                  "id": "3d6e4656-7a3a-81ee-b965-00275efd9ea6"
+                },
+                "last_edited_by": {
+                  "object": "user",
+                  "id": "3d6e4656-7a3a-81ee-b965-00275efd9ea6"
+                },
+                "cover": {
+                  "type": "external",
+                  "external": {
+                    "url": "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?w=800"
+                  }
+                },
+                "icon": {
+                  "type": "emoji",
+                  "emoji": "🩺"
+                },
+                "parent": {
+                  "type": "data_source_id",
+                  "data_source_id": "3158a540-0094-4457-b893-1a0ad9c778d6",
+                  "database_id": "5a5ae58d-f632-48d4-aacd-c7fe446dc787"
+                },
+                "in_trash": false,
+                "is_archived": false,
+                "is_locked": false,
+                "properties": {
+                  "📸 Media": {
+                    "id": "A%7DTS",
+                    "type": "files",
+                    "files": [
+                      {
+                        "name": "🩺_annual_health_checkup_appointment_snapshot.jpg",
+                        "type": "external",
+                        "external": {
+                          "url": "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?w=800"
+                        }
+                      }
+                    ]
+                  },
+                  "🕐 Time to Remind": {
+                    "id": "G%5C%3DL",
+                    "type": "date",
+                    "date": {
+                      "start": "2026-09-20T10:30:00.000+05:30",
+                      "end": null,
+                      "time_zone": null
+                    }
+                  },
+                  "📊 Status": {
+                    "id": "XES%3F",
+                    "type": "status",
+                    "status": {
+                      "id": "b12d3ee7-a026-42ae-8d6a-e1412a32f439",
+                      "name": "Upcoming",
+                      "color": "blue"
+                    }
+                  },
+                  "📝 Reason": {
+                    "id": "dWAZ",
+                    "type": "rich_text",
+                    "rich_text": [
+                      {
+                        "type": "text",
+                        "text": {
+                          "content": "Fast 8 hours prior to blood test. Bring previous medical history records.",
+                          "link": null
+                        },
+                        "annotations": {
+                          "bold": false,
+                          "italic": false,
+                          "strikethrough": false,
+                          "underline": false,
+                          "code": false,
+                          "color": "default"
+                        },
+                        "plain_text": "Fast 8 hours prior to blood test. Bring previous medical history records.",
+                        "href": null
+                      }
+                    ]
+                  },
+                  "Reminder": {
+                    "id": "title",
+                    "type": "title",
+                    "title": [
+                      {
+                        "type": "text",
+                        "text": {
+                          "content": "🩺 Annual Health Checkup Appointment",
+                          "link": null
+                        },
+                        "annotations": {
+                          "bold": false,
+                          "italic": false,
+                          "strikethrough": false,
+                          "underline": false,
+                          "code": false,
+                          "color": "default"
+                        },
+                        "plain_text": "🩺 Annual Health Checkup Appointment",
+                        "href": null
+                      }
+                    ]
+                  }
+                },
+                "url": "https://app.notion.com/p/Annual-Health-Checkup-Appointment-3dce46567a3a81649391fdbd26d92bca",
+                "public_url": null,
+                "archived": false,
+                "request_id": "0c7129bb-4edf-4a92-b846-8c6c9da42875"
+              }
+            },
+            {
+              "id": "3dce4656-7a3a-81a7-ad0d-f94cbf427c26",
+              "type": "page",
+              "url": "https://app.notion.com/p/Flight-to-Mumbai-Gate-Check-in-3dce46567a3a81a7ad0df94cbf427c26",
+              "created_time": "2026-09-15T14:22:00.000Z",
+              "last_edited_time": "2026-09-15T14:22:00.000Z",
+              "archived": false,
+              "in_trash": false,
+              "icon": {
+                "type": "emoji",
+                "emoji": "✈️"
+              },
+              "cover": {
+                "type": "external",
+                "external": {
+                  "url": "https://images.unsplash.com/photo-1436491865332-7a61a109cc05?w=800"
+                }
+              },
+              "parent": {
+                "type": "data_source_id",
+                "data_source_id": "3158a540-0094-4457-b893-1a0ad9c778d6",
+                "database_id": "5a5ae58d-f632-48d4-aacd-c7fe446dc787"
+              },
+              "properties": {
+                "📸 Media": {
+                  "id": "A%7DTS",
+                  "type": "files",
+                  "value": {
+                    "type": "files",
+                    "files": [
+                      {
+                        "name": "✈️_flight_to_mumbai_-_gate_&_check-in_snapshot.jpg",
+                        "type": "external",
+                        "external": {
+                          "url": "https://images.unsplash.com/photo-1436491865332-7a61a109cc05?w=800"
+                        }
+                      }
+                    ]
+                  }
+                },
+                "🕐 Time to Remind": {
+                  "id": "G%5C%3DL",
+                  "type": "date",
+                  "value": {
+                    "type": "date",
+                    "start": "2026-09-16T09:00:00.000+05:30",
+                    "end": null,
+                    "time_zone": null
+                  }
+                },
+                "📊 Status": {
+                  "id": "XES%3F",
+                  "type": "status",
+                  "value": {
+                    "type": "status",
+                    "name": "Upcoming",
+                    "id": "b12d3ee7-a026-42ae-8d6a-e1412a32f439",
+                    "color": "blue"
+                  }
+                },
+                "📝 Reason": {
+                  "id": "dWAZ",
+                  "type": "rich_text",
+                  "value": {
+                    "type": "rich_text",
+                    "text": "Check-in opens 24h prior. Confirm seat selection and download boarding pass.",
+                    "rich_text": [
+                      {
+                        "plain_text": "Check-in opens 24h prior. Confirm seat selection and download boarding pass.",
+                        "href": null,
+                        "annotations": {
+                          "bold": false,
+                          "italic": false,
+                          "strikethrough": false,
+                          "underline": false,
+                          "code": false,
+                          "color": "default"
+                        },
+                        "type": "text",
+                        "text": {
+                          "content": "Check-in opens 24h prior. Confirm seat selection and download boarding pass.",
+                          "link": null
+                        }
+                      }
+                    ]
+                  }
+                },
+                "Reminder": {
+                  "id": "title",
+                  "type": "title",
+                  "value": {
+                    "type": "title",
+                    "text": "✈️ Flight to Mumbai - Gate & Check-in",
+                    "rich_text": [
+                      {
+                        "plain_text": "✈️ Flight to Mumbai - Gate & Check-in",
+                        "href": null,
+                        "annotations": {
+                          "bold": false,
+                          "italic": false,
+                          "strikethrough": false,
+                          "underline": false,
+                          "code": false,
+                          "color": "default"
+                        },
+                        "type": "text",
+                        "text": {
+                          "content": "✈️ Flight to Mumbai - Gate & Check-in",
+                          "link": null
+                        }
+                      }
+                    ]
+                  }
+                }
+              },
+              "title": "✈️ Flight to Mumbai - Gate & Check-in",
+              "children": [
+                {
+                  "id": "3dce4656-7a3a-812e-ae05-ef4f0dcc7599",
+                  "type": "callout",
+                  "object": "block",
+                  "has_children": false,
+                  "created_time": "2026-09-15T14:22:00.000Z",
+                  "last_edited_time": "2026-09-15T14:22:00.000Z",
+                  "archived": false,
+                  "in_trash": false,
+                  "content": {
+                    "text": "Essential Space Reminder: Check-in opens 24h prior. Confirm seat selection and download boarding pass.",
+                    "rich_text": [
+                      {
+                        "plain_text": "Essential Space Reminder: Check-in opens 24h prior. Confirm seat selection and download boarding pass.",
+                        "href": null,
+                        "annotations": {
+                          "bold": false,
+                          "italic": false,
+                          "strikethrough": false,
+                          "underline": false,
+                          "code": false,
+                          "color": "default"
+                        },
+                        "type": "text",
+                        "text": {
+                          "content": "Essential Space Reminder: Check-in opens 24h prior. Confirm seat selection and download boarding pass.",
+                          "link": null
+                        }
+                      }
+                    ],
+                    "color": "gray_background",
+                    "other": {
+                      "icon": {
+                        "type": "emoji",
+                        "emoji": "✈️"
+                      }
+                    }
+                  },
+                  "_raw": {
+                    "object": "block",
+                    "id": "3dce4656-7a3a-812e-ae05-ef4f0dcc7599",
+                    "parent": {
+                      "type": "page_id",
+                      "page_id": "3dce4656-7a3a-81a7-ad0d-f94cbf427c26"
+                    },
+                    "created_time": "2026-09-15T14:22:00.000Z",
+                    "last_edited_time": "2026-09-15T14:22:00.000Z",
+                    "created_by": {
+                      "object": "user",
+                      "id": "3d6e4656-7a3a-81ee-b965-00275efd9ea6"
+                    },
+                    "last_edited_by": {
+                      "object": "user",
+                      "id": "3d6e4656-7a3a-81ee-b965-00275efd9ea6"
+                    },
+                    "has_children": false,
+                    "in_trash": false,
+                    "type": "callout",
+                    "callout": {
+                      "rich_text": [
+                        {
+                          "type": "text",
+                          "text": {
+                            "content": "Essential Space Reminder: Check-in opens 24h prior. Confirm seat selection and download boarding pass.",
+                            "link": null
+                          },
+                          "annotations": {
+                            "bold": false,
+                            "italic": false,
+                            "strikethrough": false,
+                            "underline": false,
+                            "code": false,
+                            "color": "default"
+                          },
+                          "plain_text": "Essential Space Reminder: Check-in opens 24h prior. Confirm seat selection and download boarding pass.",
+                          "href": null
+                        }
+                      ],
+                      "icon": {
+                        "type": "emoji",
+                        "emoji": "✈️"
+                      },
+                      "color": "gray_background"
+                    },
+                    "archived": false
+                  }
+                },
+                {
+                  "id": "3dce4656-7a3a-8118-8fc3-dac512b604ce",
+                  "type": "heading_3",
+                  "object": "block",
+                  "has_children": false,
+                  "created_time": "2026-09-15T14:22:00.000Z",
+                  "last_edited_time": "2026-09-15T14:22:00.000Z",
+                  "archived": false,
+                  "in_trash": false,
+                  "content": {
+                    "text": "📸 Captured Media",
+                    "rich_text": [
+                      {
+                        "plain_text": "📸 Captured Media",
+                        "href": null,
+                        "annotations": {
+                          "bold": false,
+                          "italic": false,
+                          "strikethrough": false,
+                          "underline": false,
+                          "code": false,
+                          "color": "default"
+                        },
+                        "type": "text",
+                        "text": {
+                          "content": "📸 Captured Media",
+                          "link": null
+                        }
+                      }
+                    ],
+                    "color": "default",
+                    "other": {
+                      "is_toggleable": false
+                    }
+                  },
+                  "_raw": {
+                    "object": "block",
+                    "id": "3dce4656-7a3a-8118-8fc3-dac512b604ce",
+                    "parent": {
+                      "type": "page_id",
+                      "page_id": "3dce4656-7a3a-81a7-ad0d-f94cbf427c26"
+                    },
+                    "created_time": "2026-09-15T14:22:00.000Z",
+                    "last_edited_time": "2026-09-15T14:22:00.000Z",
+                    "created_by": {
+                      "object": "user",
+                      "id": "3d6e4656-7a3a-81ee-b965-00275efd9ea6"
+                    },
+                    "last_edited_by": {
+                      "object": "user",
+                      "id": "3d6e4656-7a3a-81ee-b965-00275efd9ea6"
+                    },
+                    "has_children": false,
+                    "in_trash": false,
+                    "type": "heading_3",
+                    "heading_3": {
+                      "rich_text": [
+                        {
+                          "type": "text",
+                          "text": {
+                            "content": "📸 Captured Media",
+                            "link": null
+                          },
+                          "annotations": {
+                            "bold": false,
+                            "italic": false,
+                            "strikethrough": false,
+                            "underline": false,
+                            "code": false,
+                            "color": "default"
+                          },
+                          "plain_text": "📸 Captured Media",
+                          "href": null
+                        }
+                      ],
+                      "is_toggleable": false,
+                      "color": "default"
+                    },
+                    "archived": false
+                  }
+                },
+                {
+                  "id": "3dce4656-7a3a-8109-8859-df34a0cb8cdb",
+                  "type": "image",
+                  "object": "block",
+                  "has_children": false,
+                  "created_time": "2026-09-15T14:22:00.000Z",
+                  "last_edited_time": "2026-09-15T14:22:00.000Z",
+                  "archived": false,
+                  "in_trash": false,
+                  "content": {
+                    "caption": "",
+                    "external": {
+                      "url": "https://images.unsplash.com/photo-1436491865332-7a61a109cc05?w=800"
+                    },
+                    "other": {
+                      "type": "external"
+                    }
+                  },
+                  "_raw": {
+                    "object": "block",
+                    "id": "3dce4656-7a3a-8109-8859-df34a0cb8cdb",
+                    "parent": {
+                      "type": "page_id",
+                      "page_id": "3dce4656-7a3a-81a7-ad0d-f94cbf427c26"
+                    },
+                    "created_time": "2026-09-15T14:22:00.000Z",
+                    "last_edited_time": "2026-09-15T14:22:00.000Z",
+                    "created_by": {
+                      "object": "user",
+                      "id": "3d6e4656-7a3a-81ee-b965-00275efd9ea6"
+                    },
+                    "last_edited_by": {
+                      "object": "user",
+                      "id": "3d6e4656-7a3a-81ee-b965-00275efd9ea6"
+                    },
+                    "has_children": false,
+                    "in_trash": false,
+                    "type": "image",
+                    "image": {
+                      "caption": [],
+                      "type": "external",
+                      "external": {
+                        "url": "https://images.unsplash.com/photo-1436491865332-7a61a109cc05?w=800"
+                      }
+                    },
+                    "archived": false
+                  }
+                },
+                {
+                  "id": "3dce4656-7a3a-8157-973f-d7b03a93136f",
+                  "type": "heading_3",
+                  "object": "block",
+                  "has_children": false,
+                  "created_time": "2026-09-15T14:22:00.000Z",
+                  "last_edited_time": "2026-09-15T14:22:00.000Z",
+                  "archived": false,
+                  "in_trash": false,
+                  "content": {
+                    "text": "⏰ Reminder Details",
+                    "rich_text": [
+                      {
+                        "plain_text": "⏰ Reminder Details",
+                        "href": null,
+                        "annotations": {
+                          "bold": false,
+                          "italic": false,
+                          "strikethrough": false,
+                          "underline": false,
+                          "code": false,
+                          "color": "default"
+                        },
+                        "type": "text",
+                        "text": {
+                          "content": "⏰ Reminder Details",
+                          "link": null
+                        }
+                      }
+                    ],
+                    "color": "default",
+                    "other": {
+                      "is_toggleable": false
+                    }
+                  },
+                  "_raw": {
+                    "object": "block",
+                    "id": "3dce4656-7a3a-8157-973f-d7b03a93136f",
+                    "parent": {
+                      "type": "page_id",
+                      "page_id": "3dce4656-7a3a-81a7-ad0d-f94cbf427c26"
+                    },
+                    "created_time": "2026-09-15T14:22:00.000Z",
+                    "last_edited_time": "2026-09-15T14:22:00.000Z",
+                    "created_by": {
+                      "object": "user",
+                      "id": "3d6e4656-7a3a-81ee-b965-00275efd9ea6"
+                    },
+                    "last_edited_by": {
+                      "object": "user",
+                      "id": "3d6e4656-7a3a-81ee-b965-00275efd9ea6"
+                    },
+                    "has_children": false,
+                    "in_trash": false,
+                    "type": "heading_3",
+                    "heading_3": {
+                      "rich_text": [
+                        {
+                          "type": "text",
+                          "text": {
+                            "content": "⏰ Reminder Details",
+                            "link": null
+                          },
+                          "annotations": {
+                            "bold": false,
+                            "italic": false,
+                            "strikethrough": false,
+                            "underline": false,
+                            "code": false,
+                            "color": "default"
+                          },
+                          "plain_text": "⏰ Reminder Details",
+                          "href": null
+                        }
+                      ],
+                      "is_toggleable": false,
+                      "color": "default"
+                    },
+                    "archived": false
+                  }
+                },
+                {
+                  "id": "3dce4656-7a3a-81a5-abeb-e488a4d7c721",
+                  "type": "bulleted_list_item",
+                  "object": "block",
+                  "has_children": false,
+                  "created_time": "2026-09-15T14:22:00.000Z",
+                  "last_edited_time": "2026-09-15T14:22:00.000Z",
+                  "archived": false,
+                  "in_trash": false,
+                  "content": {
+                    "text": "Scheduled Time: 2026-09-16T09:00:00+05:30",
+                    "rich_text": [
+                      {
+                        "plain_text": "Scheduled Time: ",
+                        "href": null,
+                        "annotations": {
+                          "bold": true,
+                          "italic": false,
+                          "strikethrough": false,
+                          "underline": false,
+                          "code": false,
+                          "color": "default"
+                        },
+                        "type": "text",
+                        "text": {
+                          "content": "Scheduled Time: ",
+                          "link": null
+                        }
+                      },
+                      {
+                        "plain_text": "2026-09-16T09:00:00+05:30",
+                        "href": null,
+                        "annotations": {
+                          "bold": false,
+                          "italic": false,
+                          "strikethrough": false,
+                          "underline": false,
+                          "code": false,
+                          "color": "default"
+                        },
+                        "type": "text",
+                        "text": {
+                          "content": "2026-09-16T09:00:00+05:30",
+                          "link": null
+                        }
+                      }
+                    ],
+                    "color": "default",
+                    "other": {}
+                  },
+                  "_raw": {
+                    "object": "block",
+                    "id": "3dce4656-7a3a-81a5-abeb-e488a4d7c721",
+                    "parent": {
+                      "type": "page_id",
+                      "page_id": "3dce4656-7a3a-81a7-ad0d-f94cbf427c26"
+                    },
+                    "created_time": "2026-09-15T14:22:00.000Z",
+                    "last_edited_time": "2026-09-15T14:22:00.000Z",
+                    "created_by": {
+                      "object": "user",
+                      "id": "3d6e4656-7a3a-81ee-b965-00275efd9ea6"
+                    },
+                    "last_edited_by": {
+                      "object": "user",
+                      "id": "3d6e4656-7a3a-81ee-b965-00275efd9ea6"
+                    },
+                    "has_children": false,
+                    "in_trash": false,
+                    "type": "bulleted_list_item",
+                    "bulleted_list_item": {
+                      "rich_text": [
+                        {
+                          "type": "text",
+                          "text": {
+                            "content": "Scheduled Time: ",
+                            "link": null
+                          },
+                          "annotations": {
+                            "bold": true,
+                            "italic": false,
+                            "strikethrough": false,
+                            "underline": false,
+                            "code": false,
+                            "color": "default"
+                          },
+                          "plain_text": "Scheduled Time: ",
+                          "href": null
+                        },
+                        {
+                          "type": "text",
+                          "text": {
+                            "content": "2026-09-16T09:00:00+05:30",
+                            "link": null
+                          },
+                          "annotations": {
+                            "bold": false,
+                            "italic": false,
+                            "strikethrough": false,
+                            "underline": false,
+                            "code": false,
+                            "color": "default"
+                          },
+                          "plain_text": "2026-09-16T09:00:00+05:30",
+                          "href": null
+                        }
+                      ],
+                      "color": "default"
+                    },
+                    "archived": false
+                  }
+                },
+                {
+                  "id": "3dce4656-7a3a-81eb-93da-d78aaa1555ff",
+                  "type": "bulleted_list_item",
+                  "object": "block",
+                  "has_children": false,
+                  "created_time": "2026-09-15T14:22:00.000Z",
+                  "last_edited_time": "2026-09-15T14:22:00.000Z",
+                  "archived": false,
+                  "in_trash": false,
+                  "content": {
+                    "text": "Reason / Trigger: Check-in opens 24h prior. Confirm seat selection and download boarding pass.",
+                    "rich_text": [
+                      {
+                        "plain_text": "Reason / Trigger: ",
+                        "href": null,
+                        "annotations": {
+                          "bold": true,
+                          "italic": false,
+                          "strikethrough": false,
+                          "underline": false,
+                          "code": false,
+                          "color": "default"
+                        },
+                        "type": "text",
+                        "text": {
+                          "content": "Reason / Trigger: ",
+                          "link": null
+                        }
+                      },
+                      {
+                        "plain_text": "Check-in opens 24h prior. Confirm seat selection and download boarding pass.",
+                        "href": null,
+                        "annotations": {
+                          "bold": false,
+                          "italic": false,
+                          "strikethrough": false,
+                          "underline": false,
+                          "code": false,
+                          "color": "default"
+                        },
+                        "type": "text",
+                        "text": {
+                          "content": "Check-in opens 24h prior. Confirm seat selection and download boarding pass.",
+                          "link": null
+                        }
+                      }
+                    ],
+                    "color": "default",
+                    "other": {}
+                  },
+                  "_raw": {
+                    "object": "block",
+                    "id": "3dce4656-7a3a-81eb-93da-d78aaa1555ff",
+                    "parent": {
+                      "type": "page_id",
+                      "page_id": "3dce4656-7a3a-81a7-ad0d-f94cbf427c26"
+                    },
+                    "created_time": "2026-09-15T14:22:00.000Z",
+                    "last_edited_time": "2026-09-15T14:22:00.000Z",
+                    "created_by": {
+                      "object": "user",
+                      "id": "3d6e4656-7a3a-81ee-b965-00275efd9ea6"
+                    },
+                    "last_edited_by": {
+                      "object": "user",
+                      "id": "3d6e4656-7a3a-81ee-b965-00275efd9ea6"
+                    },
+                    "has_children": false,
+                    "in_trash": false,
+                    "type": "bulleted_list_item",
+                    "bulleted_list_item": {
+                      "rich_text": [
+                        {
+                          "type": "text",
+                          "text": {
+                            "content": "Reason / Trigger: ",
+                            "link": null
+                          },
+                          "annotations": {
+                            "bold": true,
+                            "italic": false,
+                            "strikethrough": false,
+                            "underline": false,
+                            "code": false,
+                            "color": "default"
+                          },
+                          "plain_text": "Reason / Trigger: ",
+                          "href": null
+                        },
+                        {
+                          "type": "text",
+                          "text": {
+                            "content": "Check-in opens 24h prior. Confirm seat selection and download boarding pass.",
+                            "link": null
+                          },
+                          "annotations": {
+                            "bold": false,
+                            "italic": false,
+                            "strikethrough": false,
+                            "underline": false,
+                            "code": false,
+                            "color": "default"
+                          },
+                          "plain_text": "Check-in opens 24h prior. Confirm seat selection and download boarding pass.",
+                          "href": null
+                        }
+                      ],
+                      "color": "default"
+                    },
+                    "archived": false
+                  }
+                }
+              ],
+              "_raw": {
+                "object": "page",
+                "id": "3dce4656-7a3a-81a7-ad0d-f94cbf427c26",
+                "created_time": "2026-09-15T14:22:00.000Z",
+                "last_edited_time": "2026-09-15T14:22:00.000Z",
+                "created_by": {
+                  "object": "user",
+                  "id": "3d6e4656-7a3a-81ee-b965-00275efd9ea6"
+                },
+                "last_edited_by": {
+                  "object": "user",
+                  "id": "3d6e4656-7a3a-81ee-b965-00275efd9ea6"
+                },
+                "cover": {
+                  "type": "external",
+                  "external": {
+                    "url": "https://images.unsplash.com/photo-1436491865332-7a61a109cc05?w=800"
+                  }
+                },
+                "icon": {
+                  "type": "emoji",
+                  "emoji": "✈️"
+                },
+                "parent": {
+                  "type": "data_source_id",
+                  "data_source_id": "3158a540-0094-4457-b893-1a0ad9c778d6",
+                  "database_id": "5a5ae58d-f632-48d4-aacd-c7fe446dc787"
+                },
+                "in_trash": false,
+                "is_archived": false,
+                "is_locked": false,
+                "properties": {
+                  "📸 Media": {
+                    "id": "A%7DTS",
+                    "type": "files",
+                    "files": [
+                      {
+                        "name": "✈️_flight_to_mumbai_-_gate_&_check-in_snapshot.jpg",
+                        "type": "external",
+                        "external": {
+                          "url": "https://images.unsplash.com/photo-1436491865332-7a61a109cc05?w=800"
+                        }
+                      }
+                    ]
+                  },
+                  "🕐 Time to Remind": {
+                    "id": "G%5C%3DL",
+                    "type": "date",
+                    "date": {
+                      "start": "2026-09-16T09:00:00.000+05:30",
+                      "end": null,
+                      "time_zone": null
+                    }
+                  },
+                  "📊 Status": {
+                    "id": "XES%3F",
+                    "type": "status",
+                    "status": {
+                      "id": "b12d3ee7-a026-42ae-8d6a-e1412a32f439",
+                      "name": "Upcoming",
+                      "color": "blue"
+                    }
+                  },
+                  "📝 Reason": {
+                    "id": "dWAZ",
+                    "type": "rich_text",
+                    "rich_text": [
+                      {
+                        "type": "text",
+                        "text": {
+                          "content": "Check-in opens 24h prior. Confirm seat selection and download boarding pass.",
+                          "link": null
+                        },
+                        "annotations": {
+                          "bold": false,
+                          "italic": false,
+                          "strikethrough": false,
+                          "underline": false,
+                          "code": false,
+                          "color": "default"
+                        },
+                        "plain_text": "Check-in opens 24h prior. Confirm seat selection and download boarding pass.",
+                        "href": null
+                      }
+                    ]
+                  },
+                  "Reminder": {
+                    "id": "title",
+                    "type": "title",
+                    "title": [
+                      {
+                        "type": "text",
+                        "text": {
+                          "content": "✈️ Flight to Mumbai - Gate & Check-in",
+                          "link": null
+                        },
+                        "annotations": {
+                          "bold": false,
+                          "italic": false,
+                          "strikethrough": false,
+                          "underline": false,
+                          "code": false,
+                          "color": "default"
+                        },
+                        "plain_text": "✈️ Flight to Mumbai - Gate & Check-in",
+                        "href": null
+                      }
+                    ]
+                  }
+                },
+                "url": "https://app.notion.com/p/Flight-to-Mumbai-Gate-Check-in-3dce46567a3a81a7ad0df94cbf427c26",
+                "public_url": null,
+                "archived": false,
+                "request_id": "4934e045-aafb-4191-8e16-d561252e6f50"
+              }
+            }
+          ],
+          "title": "🔔 Reminder Log",
+          "url": "https://app.notion.com/p/5a5ae58df63248d4aacdc7fe446dc787",
+          "description": "",
+          "_raw": {
+            "object": "database",
+            "id": "5a5ae58d-f632-48d4-aacd-c7fe446dc787",
+            "title": [
+              {
+                "type": "text",
+                "text": {
+                  "content": "🔔 Reminder Log",
+                  "link": null
+                },
+                "annotations": {
+                  "bold": false,
+                  "italic": false,
+                  "strikethrough": false,
+                  "underline": false,
+                  "code": false,
+                  "color": "default"
+                },
+                "plain_text": "🔔 Reminder Log",
+                "href": null
+              }
+            ],
+            "description": [],
+            "parent": {
+              "type": "page_id",
+              "page_id": "3dce4656-7a3a-8094-9b51-c158be338e89"
+            },
+            "is_inline": false,
+            "database_type": null,
+            "in_trash": false,
+            "is_locked": false,
+            "created_time": "2026-09-15T14:14:59.400+00:00",
+            "last_edited_time": "2026-09-15T14:22:33.912+00:00",
+            "data_sources": [
+              {
+                "id": "3158a540-0094-4457-b893-1a0ad9c778d6",
+                "name": "🔔 Reminder Log"
+              }
+            ],
+            "icon": {
+              "type": "emoji",
+              "emoji": "🔔"
+            },
+            "cover": null,
+            "url": "https://app.notion.com/p/5a5ae58df63248d4aacdc7fe446dc787",
+            "public_url": null,
+            "archived": false,
+            "request_id": "8aafa59a-0afa-4ab6-ab82-36f3d0397d22"
+          }
+        }
+      }
+    ],
+    "_raw": {
+      "object": "page",
+      "id": "3dce4656-7a3a-8094-9b51-c158be338e89",
+      "created_time": "2026-09-15T14:06:00.000Z",
+      "last_edited_time": "2026-09-15T14:14:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "3d6d872b-594c-81e1-af4a-0002b05cee21"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "3d6e4656-7a3a-81ee-b965-00275efd9ea6"
+      },
+      "cover": null,
+      "icon": {
+        "type": "icon",
+        "icon": {
+          "name": "error",
+          "color": "pink"
+        }
+      },
+      "parent": {
+        "type": "workspace",
+        "workspace": true
+      },
+      "in_trash": false,
+      "is_archived": false,
+      "is_locked": false,
+      "properties": {
+        "title": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Essential Space",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Essential Space",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://app.notion.com/p/Essential-Space-3dce46567a3a80949b51c158be338e89",
+      "public_url": null,
+      "archived": false,
+      "request_id": "c1e3c3aa-eace-4706-be2a-fc59c3d48125"
+    }
+  }
+}

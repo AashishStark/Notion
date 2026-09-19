@@ -1,0 +1,25 @@
+# Secrets & Environment variables
+.env*
+ENV_FILES.json
+notes.json
+
+# Python Cache & Bytecode
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Python Virtual Environments
+.venv/
+venv/
+env/
+ENV/
+
+# IDE & Editor settings
+.vscode/
+.idea/
+
+# Windows System Files
+Thumbs.db
+desktop.ini
+ehthumbs.db
