@@ -161,8 +161,6 @@ python "Update Page.py"
 
 This reads the JSON and pushes the changes back to the corresponding Notion page.
 
-<!-- IMAGE: before/after screenshot of a Notion page being updated -->
-![Get and update workflow](photos/get-update-workflow.png)
 
 Repeat the same `Get Page.py` → edit JSON → `Update Page.py` flow for each module (`Notes/`, `Reminder/`, `Travel Planner/`).
 
